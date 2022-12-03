@@ -4,4 +4,4 @@
 6 - Visualization Techniques
 7 - Proximity Measures for Nominal, Numberic, Cosine (Similarity & Dissimilarity)
 8 - Implementation of K-Means Clustering on dataset
-9 - Naive Bayes Algorith
+9 - Naive Bayes Algorithm
