@@ -1,4 +1,4 @@
-# Data mining & Warehousing Lab Assignments
+# Data Mining & Warehousing Lab Assignments
 
 1,2 - Data Preprocessing Tasks
 
